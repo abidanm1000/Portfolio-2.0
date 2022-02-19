@@ -2,12 +2,12 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    text-decoration: none;
-    font-family: 'Outfit', sans-serif;
-    text-transform: uppercase;
 }
 
 body {
+    text-decoration: none;
+    font-family: 'Outfit', sans-serif;
+    text-transform: uppercase;
     background: linear-gradient(to right, #7a7b80, #ffffff);
     text-align: center;
 }
